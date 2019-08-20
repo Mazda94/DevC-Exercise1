@@ -1,0 +1,19 @@
+#img_header{
+    width: 56px;
+    height: 56px;
+}
+
+h5{
+    font-weight: bold;
+}
+
+#card_biodata{
+    border: 1px;
+    border-style: solid;
+    border-color: cornflowerblue;
+    border-radius: 24px
+}
+
+img{
+    border-radius: 12px;
+}
